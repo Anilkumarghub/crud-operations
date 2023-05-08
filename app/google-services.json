@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54085415588",
+    "project_id": "realtime-db-8e98c",
+    "storage_bucket": "realtime-db-8e98c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54085415588:android:94b9923f1b8e0f3664ec31",
+        "android_client_info": {
+          "package_name": "com.example.crudoperations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54085415588-6gmm5idd1f3f08i9p7ohl2nthu89js0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC2kCjMnxaK8AEg7kMCwUpmO-BmNmTRWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54085415588-6gmm5idd1f3f08i9p7ohl2nthu89js0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
